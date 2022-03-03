@@ -1,0 +1,1 @@
+# nixos-i3-config
